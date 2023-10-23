@@ -1,0 +1,17 @@
+/*resetar as definições do navegador*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bg-cor-menu {
+    background-color: rgb(71, 22, 144);
+}
+
+#navbar-items .navbar-nav {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
