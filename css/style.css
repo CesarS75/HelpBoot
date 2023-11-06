@@ -7,7 +7,7 @@
 }
 
 .bg-cor-menu {
-    background-color: rgb(55, 17, 113);
+    background-color: rgb(62, 20, 126);
 }
 
 #navbar-items .navbar-nav {
@@ -22,4 +22,8 @@ nav span, .bi-mic-mute-fill, li .nav-link {
 
 .navbar-nav a {
     margin-left: 8em;
+}
+
+#container-banner {
+    margin-top: -1em;
 }
