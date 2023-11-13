@@ -5,6 +5,9 @@
     box-sizing: border-box;
     font-family: 'Agbalumo', sans-serif;
 }
+.divbody {
+    background-color: rgba(228, 185, 255, 0.432);
+}
 
 .bg-cor-menu {
     background-color: rgb(62, 20, 126);
@@ -26,4 +29,8 @@ nav span, .bi-mic-mute-fill, li .nav-link {
 
 #container-banner {
     margin-top: -1em;
+}
+
+.carousel-item {
+    margin-top: 95px;
 }
